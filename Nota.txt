@@ -1,0 +1,14 @@
+Caso de Uso    /Falta
+CU01		Revisar,DC,Secuencia
+CU02		Revisar,DC,Secuencia
+CU03		Revisar,DC,Secuencia
+CU04		Revisar,DC,Secuencia
+CU05		Revisar,DC,Secuencia
+CU06		Revisar,DC,Secuencia
+CU07		Revisar,DC,Secuencia
+CU08		Revisar,DC,Secuencia
+CU09		Revisar,DC,Secuencia
+CU10		Revisar,DC,Secuencia
+CU11		Revisar,DC,Secuencia
+CU12		Revisar,DC,Secuencia
+CU13		Revisar,DC,Secuencia
