@@ -1,9 +1,9 @@
 CU /    /Falta
 
-CU01	DER,DC			(Gabo)
-CU02	DER,DC			(Gabo)
+CU01	DER			(Gabo)
+CU02	DER			(Gabo)
 CU03	DER,Revisar,DC,DS
-CU04	DER,DC			(Gabo)
+CU04	DER			(Gabo)
 CU05	DER,DC,DS        	(Gabo)
 CU06	DER,Revisar,DC,DS
 CU07	DER,Revisar,DC,DS
@@ -13,7 +13,7 @@ CU10	DER,Revisar,DC,DS
 CU11	DER,Revisar,DC,DS
 CU12	DER,Revisar,DC,DS
 CU13	DER,Revisar,DC,DS
-CU14	DER,DC		    	(Gabo)
+CU14	DER		    	(Gabo)
 
 
 Cosas a tener en cuenta:
