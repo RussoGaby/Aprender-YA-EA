@@ -5,7 +5,7 @@ CU02	DER			(Gabo)
 CU03	DER,Revisar,DC,DS
 CU04	DER			(Gabo)
 CU05	DER,DC	        	(Gabo)
-CU06	DER,Revisar,DC,DS	(Gabo)
+CU06	DER			(Gabo)
 CU07	DER,Revisar,DC
 CU08	DER,Revisar,DC,DS	(Gabo)
 CU09	DER,Revisar,DC
