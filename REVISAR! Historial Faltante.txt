@@ -1,5 +1,6 @@
 CU /    /Falta
 
+<<<<<<< HEAD
 CU01	DER			(Gabo)
 CU02	DER			(Gabo)
 CU03	DER,Revisar,DC,DS
@@ -14,6 +15,22 @@ CU11	DER,Revisar,DC,DS
 CU12	DER,			(santi)
 CU13	DER,Revisar,DC,DS
 CU14	DER		    	(Gabo)
+=======
+CU01				(Gabo)
+CU02				(Gabo)
+CU03	DER,Revisar,DC
+CU04				(Gabo)
+CU05	DER,DC	        	(Gabo)
+.CU06				(Gabo)
+CU07	DER,Revisar,DC
+.CU08	DER,Revisar,DC,DS	(Gabo)
+CU09	DER,Revisar,DC
+.CU10	DER,Revisar,DC,DS
+CU11	DER,Revisar,DC
+.CU12	DER,Revisar,DC,DS
+CU13	DER,Revisar,DC
+CU14				(Gabo)
+>>>>>>> 2bb8296e4ef35e056b3082b067187a6681242d84
 
 
 Cosas a tener en cuenta:
