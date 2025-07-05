@@ -9,9 +9,9 @@ CU06	DER,Revisar,DC,DS
 CU07	DER,Revisar,DC,DS
 CU08	DER,Revisar,DC,DS
 CU09	DER,Revisar,DC,DS
-CU10	DER,Revisar,DC,DS
+CU10	DER,			(santi)
 CU11	DER,Revisar,DC,DS
-CU12	DER,Revisar,DC,DS
+CU12	DER,			(santi)
 CU13	DER,Revisar,DC,DS
 CU14	DER		    	(Gabo)
 
